@@ -2,8 +2,8 @@
 Changelog for package privacy_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.0 (2024-09-16)
+------------------
 * {privacy_centre -> privacy_msgs}
 * [doc] cleanup README
 * Contributors: Séverin Lemaignan
